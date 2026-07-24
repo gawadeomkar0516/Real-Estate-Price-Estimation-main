@@ -210,11 +210,9 @@ House-Value-Prediction/
 
 ## 👨‍💻 Author
 
-### Safin Bagwan
+### Omkar Gawade
 
 B.Tech in Computer Science Engineering (AI & Data Science)
-
-GitHub: https://github.com/Safin-Bagwan
 
 ---
 
